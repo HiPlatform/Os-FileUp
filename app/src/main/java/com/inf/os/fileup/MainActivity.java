@@ -99,6 +99,7 @@ public class MainActivity extends AppCompatActivity{
         }
         webView.setWebViewClient(new Callback());
         webView.loadUrl("https://infeeds.com/");
+        webView.getSettings().setDomStorageEnabled(true);
         webView.setWebChromeClient(new WebChromeClient(){
             //For Android 3.0+
             public void openFileChooser(ValueCallback<Uri> uploadMsg){
