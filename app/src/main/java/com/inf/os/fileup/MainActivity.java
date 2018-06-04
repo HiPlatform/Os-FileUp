@@ -85,7 +85,7 @@ public class MainActivity extends AppCompatActivity {
         checkPermission();
 
         // The target url to surf using web view
-        String url = "https://testedt03.qa.directtalk.com.br/chat31/?idd=5925002486DA30054507";
+        String url = "https://g1.globo.com/";
 
         // Load the url in web view
         mWebView.loadUrl(url);
