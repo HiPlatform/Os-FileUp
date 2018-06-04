@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://C:\Users\sreis\Projects\tests\Os-FileUp\FileUp.iml" filepath="C:\Users\sreis\Projects\tests\Os-FileUp\FileUp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../tests/Os-FileUp/FileUp.iml" filepath="$PROJECT_DIR$/../../tests/Os-FileUp/FileUp.iml" />
       <module fileurl="file://$PROJECT_DIR$/Os-FileUp.iml" filepath="$PROJECT_DIR$/Os-FileUp.iml" />
-      <module fileurl="file://C:\Users\sreis\Projects\tests\Os-FileUp\Os-FileUp.iml" filepath="C:\Users\sreis\Projects\tests\Os-FileUp\Os-FileUp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../tests/Os-FileUp/Os-FileUp.iml" filepath="$PROJECT_DIR$/../../tests/Os-FileUp/Os-FileUp.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://C:\Users\sreis\Projects\tests\Os-FileUp\app\app.iml" filepath="C:\Users\sreis\Projects\tests\Os-FileUp\app\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../tests/Os-FileUp/app/app.iml" filepath="$PROJECT_DIR$/../../tests/Os-FileUp/app/app.iml" />
     </modules>
   </component>
 </project>
